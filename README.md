@@ -1,4 +1,4 @@
-# Statuses
+# offline-npm-docs
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -25,13 +25,13 @@ $ npx offline-npm-docs
 ```
 
 
-[npm-image]: https://img.shields.io/npm/v/statuses.svg
-[npm-url]: https://npmjs.org/package/statuses
-[node-version-image]: https://img.shields.io/node/v/statuses.svg
+[npm-image]: https://img.shields.io/npm/v/offline-npm-docs.svg
+[npm-url]: https://npmjs.org/package/offline-npm-docs
+[node-version-image]: https://img.shields.io/node/v/offline-npm-docs.svg
 [node-version-url]: https://nodejs.org/en/download
-[travis-image]: https://img.shields.io/travis/jshttp/statuses.svg
-[travis-url]: https://travis-ci.org/jshttp/statuses
-[coveralls-image]: https://img.shields.io/coveralls/jshttp/statuses.svg
-[coveralls-url]: https://coveralls.io/r/jshttp/statuses?branch=master
-[downloads-image]: https://img.shields.io/npm/dm/statuses.svg
-[downloads-url]: https://npmjs.org/package/statuses
+[travis-image]: https://img.shields.io/travis/jshttp/offline-npm-docs.svg
+[travis-url]: https://travis-ci.org/jshttp/offline-npm-docs
+[coveralls-image]: https://img.shields.io/coveralls/jshttp/offline-npm-docs.svg
+[coveralls-url]: https://coveralls.io/r/jshttp/offline-npm-docs?branch=master
+[downloads-image]: https://img.shields.io/npm/dm/offline-npm-docs.svg
+[downloads-url]: https://npmjs.org/package/offline-npm-docs
