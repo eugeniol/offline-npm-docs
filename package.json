@@ -1,0 +1,19 @@
+{
+  "name": "offline-npm-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "serve-docs": "index.js"
+  },
+  "author": "Eugenio Lattanzio <eugenio63@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "glob": "^7.1.4",
+    "marked": "^0.7.0"
+  }
+}
