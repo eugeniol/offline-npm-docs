@@ -1,7 +1,7 @@
 {
   "name": "offline-npm-docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloads-url] [![Node.js Version][node-version-image]][node-version-url] [![Build Status][travis-image]][travis-url] [![Test Coverage][coveralls-image]][coveralls-url]",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,22 @@
     "express": "^4.17.1",
     "glob": "^7.1.4",
     "marked": "^0.7.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugeniol/offline-npm-docs.git"
+  },
+  "keywords": [
+    "offline",
+    "docs",
+    "markdown",
+    "express",
+    "serve",
+    "node_modules"
+  ],
+  "bugs": {
+    "url": "https://github.com/eugeniol/offline-npm-docs/issues"
+  },
+  "homepage": "https://github.com/eugeniol/offline-npm-docs#readme"
 }
