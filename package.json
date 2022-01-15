@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "glob": "^7.1.4",
-    "marked": "^0.7.0"
+    "marked": "^4.0.10"
   },
   "devDependencies": {},
   "repository": {
